@@ -1,0 +1,5 @@
+# Libera somente os arquivos utilizados na imagem.
+**
+!package.json
+!package-lock.json
+!index.js
